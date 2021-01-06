@@ -1,1 +1,1 @@
-conflict.md
+masterブランチで書きました。
